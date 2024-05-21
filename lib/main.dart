@@ -4,6 +4,7 @@ import 'package:todo_api/view/home_page.dart';
 import 'package:todo_api/view/sign_in_page.dart';
 
 const baseUrl = 'https://todo.rafaelbarbosatec.com/api/';
+
 SessionDatasource sessionDatasource = SessionDatasource();
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
