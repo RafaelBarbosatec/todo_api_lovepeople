@@ -16,9 +16,7 @@ class _SignUpPageState extends State<SignUpPage> {
       ),
       body: Center(
         child: ElevatedButton(
-          onPressed: () {
-            Navigator.pop(context);
-          },
+          onPressed: () {},
           child: const Text('Back!'),
         ),
       ),
