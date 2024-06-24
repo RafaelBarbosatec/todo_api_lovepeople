@@ -1,16 +1,13 @@
-# todo_api
+# Todo API
+
+| Home 1 | Login |
+|----------|----------|
+| ![image](https://github.com/RafaelBarbosatec/todo_api_lovepeople/assets/10039275/4f1bcf8e-b265-4273-a595-e85520eec640)    | ![image](https://github.com/RafaelBarbosatec/todo_api_lovepeople/assets/10039275/489c47e8-97b1-4634-8820-1a456c0f617d)   |
+
+
 
 A new Flutter project.
 
-## Getting Started
+## Descrição
+App desenvolvido para praticar integração com API.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
